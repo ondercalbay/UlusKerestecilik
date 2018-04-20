@@ -58,6 +58,7 @@
     <Content Include="Thema\hakkimizda.html" />
     <Content Include="Thema\hizmetlerimiz.html" />
     <Content Include="Thema\iletisim.html" />
+    <Content Include="Thema\images\agaclar.jpg" />
     <Content Include="Thema\images\blog-1.jpg" />
     <Content Include="Thema\images\blog-2.jpg" />
     <Content Include="Thema\images\blog-3.jpg" />

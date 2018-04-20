@@ -5,6 +5,8 @@ VisualStudioVersion = 15.0.27130.2036
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Tema", "Tema\Tema.csproj", "{10EE8A55-E13C-46D6-A4E5-F3341195C034}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "WebUi", "WebUi\WebUi.csproj", "{99EC0CA4-806D-4F04-91BF-6FCBD0495C8C}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -15,6 +17,10 @@ Global
 		{10EE8A55-E13C-46D6-A4E5-F3341195C034}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{10EE8A55-E13C-46D6-A4E5-F3341195C034}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{10EE8A55-E13C-46D6-A4E5-F3341195C034}.Release|Any CPU.Build.0 = Release|Any CPU
+		{99EC0CA4-806D-4F04-91BF-6FCBD0495C8C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{99EC0CA4-806D-4F04-91BF-6FCBD0495C8C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{99EC0CA4-806D-4F04-91BF-6FCBD0495C8C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{99EC0CA4-806D-4F04-91BF-6FCBD0495C8C}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
