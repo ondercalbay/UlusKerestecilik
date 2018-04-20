@@ -154,12 +154,12 @@
     <Content Include="fonts\icomoon\icomoona57c.woff" />
     <None Include="packages.config" />
     <Content Include="Views\_LayoutPage1.cshtml" />
-    <Content Include="Views\Default\Index.cshtml" />
     <Content Include="Views\Home\Index.cshtml" />
     <Content Include="Views\Home\Hizmetlerimiz.cshtml" />
     <Content Include="Views\_Menu.cshtml" />
     <Content Include="Views\Home\Iletisim.cshtml" />
     <Content Include="Views\Home\Hakkimizda.cshtml" />
+    <None Include="Properties\PublishProfiles\FolderProfile.pubxml" />
     <None Include="Web.Debug.config">
       <DependentUpon>Web.config</DependentUpon>
     </None>
