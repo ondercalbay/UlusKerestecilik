@@ -21,8 +21,8 @@ namespace WebUi.Controllers
         {
             return View();
         }
-        [Route("/Hizmetlerimiz")]
-        public ActionResult Hizmetlerimiz()
+        [Route("/Urunlerimiz")]
+        public ActionResult Urunlerimiz()
         {
             return View();
         }
